@@ -27,7 +27,7 @@ std::string ip;
 std::uint16_t port;
 std::uint8_t threads;
 std::uint8_t kb;
-std::string msg("");
+std::string msg("o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o.arAx90o");
 void task1()
     {
         // Import sendpacket.cpp //
